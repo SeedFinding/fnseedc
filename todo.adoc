@@ -10,6 +10,7 @@
 * Considered - Add relevant people section to name those who took up the work on cracking minecraft seeds. (KaptainWutax , Neil, EarthComputer, Matthew, Andrew, L64, Cortex, other folks from Minecraft@Home project as well) 
 
 * Add `tools` section for tools like MineMap , SeedCandy, SeedCracker, SASSA and other tools
+* Add Latice Reduction papers (LLL, BKZ discussion etc)
 
 
 //Thank you to everyone who created such quality articles / worked on making seed reverse engineering possible !
