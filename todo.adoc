@@ -1,14 +1,21 @@
-* Add more book resource
+* +++<del>+++Add more book suggestions+++</del>+++ Unnecessary
 * Ask Monkeys for permission for their discord server link to be added
-* Add more math articles
-* Add more Computer Science(Bit Manipulation) articles
-* Add write-ups for Modular Inverses
-* Add terminology section
+* Add more math articles (To be first queried from Matthew Bolan) 
+* Add more Computer Science( specifcally, Bit Manipulation) articles
+* Add write-ups for Modular Inverses , easy to understand intuitive talk on Lattices and why they are cool
+* +++<del>+++Add terminology section for terms like -> phase, period, state, fuction call, attack, salts, structure, WorldSeed, LayerSeed, ChunkSeed, CarverSeed,offsets, basis etc +++</del>+++
 
-* **Add `relevant code` section and `reversal libs` section**
+* **Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, Cubiomes , old stuff that was once considered to crack seeds**
 
+* Considered - **Add relevant people section to name those who took up the work on cracking minecraft seeds. (KaptainWutax , Neil, EarthComputer, Matthew, Andrew, L64, Cortex, other folks from Minecraft@Home project as well)**
+* Considered - Add section for starting out with code for those who are very new to this
 
+* Add `tools` section for tools like MineMap , SeedCandy, SeedCracker, SASSA and other tools
+* +++<del>+++Add Latice Reduction papers (LLL, BKZ discussion etc)+++</del>+++ _Done for now_
+* **Add topics on what Monkeys is researching(?)/looking for today i.e, modern seed cracking hunt and what it is about**
+* Add section to find relevant code in the decompiled-mapped minecraft codebase
 
+* _Over Ambitious Plan_ Considered : Deep dive into LattiCG code to see what it is doing and writeups based on that.
 
 //Thank you to everyone who created such quality articles / worked on making seed reverse engineering possible !
 

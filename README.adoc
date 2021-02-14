@@ -1,49 +1,67 @@
-= Idiot's guide to newbies in Seedcracking
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
- * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
- 
- * https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
+= Collection of resources for Newbies to Minecraft Seedcracking Scene
 
- * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆;
+_Please check todo.adoc in case you have something to help out from there_
 
- * https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator[General talk on LCG state prediction]
+=== Write-ups
 
- * https://en.wikipedia.org/wiki/Linear_congruential_generator[Generic Wikipedia Article]
+* https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
- * https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
+* https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
 
- * https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample]
+* https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆;
 
- * http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices]
+* https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator[General talk on LCG state prediction]
 
- * https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
+* https://en.wikipedia.org/wiki/Linear_congruential_generator[Generic Wikipedia Article]
 
- * https://imgur.com/a/eWn481F[YES]
+* https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
+
+* https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample ☆☆☆☆☆]
+
+* http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices]
+
+* https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
+
+* https://imgur.com/a/eWn481F[YES]
 
 = Videos
 
-.Matthew Bolan :
- * https://www.youtube.com/watch?v=XVrR1WImOh8[Minecraft Seedfinding Ep. 1 - Linear Congruential Generators]
- * https://www.youtube.com/watch?v=mc9w2iD3Gzs[Minecraft Seedfinding Ep. 2 Pt.1 - A General Seedfinding Problem]
- * https://www.youtube.com/watch?v=gsaV9gcLntM[Minecraft Seedfinding Ep. 2 Pt. 2 - Lattices and Linear Programming]
- * https://www.youtube.com/watch?v=8CKh4x4iK38&t=522s[A thing]
+.https://github.com/mjtb49[Matthew Bolan]
 
-.Neil(Hube12)
- * https://www.youtube.com/watch?v=esbxCDHvjvo[IN
+* https://www.youtube.com/watch?v=XVrR1WImOh8[Minecraft Seedfinding Ep. 1 - Linear Congruential Generators]
+* https://www.youtube.com/watch?v=mc9w2iD3Gzs[Minecraft Seedfinding Ep. 2 Pt.1 - A General Seedfinding Problem]
+* https://www.youtube.com/watch?v=gsaV9gcLntM[Minecraft Seedfinding Ep. 2 Pt. 2 - Lattices and Linear Programming]
+* https://www.youtube.com/watch?v=8CKh4x4iK38&t=522s[Dungeon Seed Cracking Thing]
+
+.https://github.com/hube12[Neil(Hube12)]
+
+* https://www.youtube.com/watch?v=esbxCDHvjvo[
 Seedfinding tutorial part 0: Structures and LCG]
- * https://www.youtube.com/watch?v=OvSUkr6Icfo&t=1006s[IN
+* https://www.youtube.com/watch?v=OvSUkr6Icfo&t=1006s[
 Seedfinding tutorial part 1: Biome Generation and shortcutting]
- * https://www.youtube.com/watch?v=IN8hgb8E_80[IN
+* https://www.youtube.com/watch?v=IN8hgb8E_80[
 Seedfinding tutorial part 2: Terrain Gen and Noises]
- * https://www.youtube.com/watch?v=EQSzSN-uklY[Seedfinding tutorial part 3: Recursion, Mineshaft, Stronghold and Fortress]
- * https://www.youtube.com/watch?v=sRwz-wEq9YI[Seedfinding tutorial part 4: Latticg]
+* https://www.youtube.com/watch?v=EQSzSN-uklY[Seedfinding tutorial part 3: Recursion, Mineshaft, Stronghold and Fortress]
+* https://www.youtube.com/watch?v=sRwz-wEq9YI[Seedfinding tutorial part 4: Latticg]
 
 .Panda4994
- * https://www.youtube.com/watch?v=OLS7CCgNcuY[IN
+
+* https://www.youtube.com/watch?v=OLS7CCgNcuY[
 Seeds & Generation: Ways to enter a Seed]
 
 
-= PDF Articles
+= PDF / Articles
+
+.WorldGen Specifics
+_TBD_
 
 .Modular Arithmetic
 
@@ -52,15 +70,17 @@ Seeds & Generation: Ways to enter a Seed]
 * https://people.cs.clemson.edu/~goddard/texts/discreteMath/C2.pdf[☆☆☆]
 * https://sites.millersville.edu/bikenaga/abstract-algebra-1/modular-arithmetic/modular-arithmetic.pdf[☆☆☆]
 * https://courses.cs.washington.edu/courses/cse311/15au/documents/ModularEquivalences.pdf[☆☆]
+* https://crypto.stackexchange.com/questions/47493/how-to-determine-the-multiplicative-inverse-modulo-64-or-other-power-of-two[How to determine the multiplicative inverse modulo 64 (or other power of two)?]
 
 .Bit Stuff
 
-* https://en.wikipedia.org/wiki/Bit_numbering[!Important! === Generic Wikipedia Page on Bit Numbering]
+* [IMPORTANT] https://en.wikipedia.org/wiki/Bit_numbering[Generic Wikipedia Page on Bit Numbering]
 * https://stackoverflow.com/questions/141525/what-are-bitwise-shift-bit-shift-operators-and-how-do-they-work[Understanding what `>>` , `>>>` and `<<` are , read I and III answer]
 * https://stackoverflow.com/questions/17256644/how-does-the-bitwise-and-work-in-java[How AND works]
 * https://web.cse.ohio-state.edu/~reeves.92/CSE2421au12/SlidesDay18.pdf[General Notes on bit operations]
 * https://en.wikipedia.org/wiki/Bitwise_operation#Mathematical_equivalents[Generic Wiki Page -> Opens at Mathematical Equivalents]
 * https://stackoverflow.com/questions/14279866/what-is-inverse-function-to-xor[Inverse of XORs]
+* https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
 
 .Lattice Articles
 //TODO
@@ -70,18 +90,54 @@ Seeds & Generation: Ways to enter a Seed]
 * https://www.win.tue.nl/~marko/2WB05/lecture5.pdf[TUE Lecture Slides on RNG]
 * https://www.math.arizona.edu/~tgk/mc/book_chap3.pdf[Extra Info on RNGs]
 
-* https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
-Number Generator]
+.Relevant Papers [Credits : https://github.com/mjtb49[Matthew Bolan] on Monkeys Discord]
 
+* https://www.math.uni-frankfurt.de/~dmst/teaching/WS2014/Vorlesung/Alex.May.pdf[New RSA Vulnerabilities Using
+Lattice Reduction Methods by Alexander May]
+* http://www.crypto-uni.lu/jscoron/publications/bivariate.pdf[Finding Small Roots of Bivariate Integer Polynomial Equations Revisited by Jean-Se´bastien Coron]
+* https://www2.eecs.berkeley.edu/Pubs/TechRpts/1984/CSD-84-186.pdf[Discrete Logarithms and factoring by Eric Bach]
+* https://www.iacr.org/archive/asiacrypt2011/70730001/70730001.pdf[BKZ 2.0: Better Lattice Security Estimates by Yuanmi Chen and Phong Q. Nguyen]
+* https://www.newton.ac.uk/files/seminar/20140509093009501-202978.pdf[Presentation - The BKZ algorithm by Joop van de Pol]
+* https://arxiv.org/pdf/math/0005139.pdf[Rational points near curves and small nonzero |x^3 − y^2| via lattice reduction by Noam D. Elkies]
+* https://www.researchgate.net/publication/226499611_Lattice_Basis_Reduction_Improved_Practical_Algorithms_and_Solving_Subset_Sum_Problems[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems by Claus Peter Schnorr]
+* * https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
+Number Generator] _Irrelevant_
+* https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
+* https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[Lattice Basis Reduction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
 
+_These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
+
+= Tools
+
+* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amdidst but really better <lol>]
+* https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
+* https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
+* https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod]
+* https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
+* https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - Library to mimic terrain generation]
+* https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
+* https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
+* https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
+* https://github.com/KaptainWutax/MathUtils[MathUtils by KaptainWutax - lib for "maths utilities specific to lcg shortcutting and Minecraft world gen"]
+* https://github.com/mjtb49/ChunkRandomReversal[ChunkRandomReversal by mjtb49 - A collection of algorithms to reverse using partial information various hashes used by Minecraft to seed its ChunkRandom PRNG]
+* https://github.com/MCRcortex/TreeCracker[TreeCracker(MSCT) by MCRCortex - Seed Cracker based on Trees]
+* https://github.com/KaptainWutax/Kaktoos[Kaktoos by KaptainWutax - CUDA program to find tallest cactii]
+* https://github.com/Earthcomputer/SecureSeed[SecureSeed by EarthComputer - Anti Seed Tamper Tech <idk if this is a joke or not>]
+* https://github.com/hube12/DecompilerMC[DecompilerMC by Neil - Uses Mojang Mappings , MC decompiler]
+* https://seedfinding.com/shadow_seed/[Seedfinding.com by Neil - Gateway Locations and Shadow Seed finder]
+* https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
+* Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
+
+_Old,deprecated tools aren't listed but can be found in the old-tools.adoc listing(tbd). If someone isn't credit or mis-credit please open an issue so I can correct it_ 
 
 = Books
 
 * Lattice Basis Reduction: An Introduction to the LLL Algorithm and Its Applications by Murray R Bremner
-
 * Donald Knuth, The Art of Computer Programming, Volume 2, Section 3.2.1
 
 
 
-
- No copyright infringement intended.
+[NOTE]
+===
+No copyright infringement intended.
+===
