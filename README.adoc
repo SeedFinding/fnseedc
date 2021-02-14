@@ -8,6 +8,8 @@ endif::[]
 
 = Collection of resources for Newbies to Minecraft Seedcracking Scene
 
+_Please check todo.adoc in case you have something to help out from there_
+
 === Write-ups
 
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
@@ -60,11 +62,13 @@ Seeds & Generation: Ways to enter a Seed]
 
 .Modular Arithmetic
 
+* https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
 * https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[☆☆]
 * https://davidaltizio.web.illinois.edu/ModularArithmetic.pdf[☆☆☆]
 * https://people.cs.clemson.edu/~goddard/texts/discreteMath/C2.pdf[☆☆☆]
 * https://sites.millersville.edu/bikenaga/abstract-algebra-1/modular-arithmetic/modular-arithmetic.pdf[☆☆☆]
 * https://courses.cs.washington.edu/courses/cse311/15au/documents/ModularEquivalences.pdf[☆☆]
+* https://crypto.stackexchange.com/questions/47493/how-to-determine-the-multiplicative-inverse-modulo-64-or-other-power-of-two[How to determine the multiplicative inverse modulo 64 (or other power of two)?]
 
 .Bit Stuff
 
@@ -83,10 +87,23 @@ Seeds & Generation: Ways to enter a Seed]
 * https://www.win.tue.nl/~marko/2WB05/lecture5.pdf[TUE Lecture Slides on RNG]
 * https://www.math.arizona.edu/~tgk/mc/book_chap3.pdf[Extra Info on RNGs]
 
-* https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
+.Relevant Papers [Credits : https://github.com/mjtb49[Matthew Bolan] on Monkeys Discord]
+
+* https://www.math.uni-frankfurt.de/~dmst/teaching/WS2014/Vorlesung/Alex.May.pdf[New RSA Vulnerabilities Using
+Lattice Reduction Methods by Alexander May]
+* http://www.crypto-uni.lu/jscoron/publications/bivariate.pdf[Finding Small Roots of Bivariate Integer Polynomial Equations Revisited by Jean-Se´bastien Coron]
+* https://www2.eecs.berkeley.edu/Pubs/TechRpts/1984/CSD-84-186.pdf[Discrete Logarithms and factoring by Eric Bach]
+* https://www.iacr.org/archive/asiacrypt2011/70730001/70730001.pdf[BKZ 2.0: Better Lattice Security Estimates by Yuanmi Chen and Phong Q. Nguyen]
+* https://www.newton.ac.uk/files/seminar/20140509093009501-202978.pdf [Presentation - The BKZ algorithm by Joop van de Pol]
+* https://arxiv.org/pdf/math/0005139.pdf[Rational points near curves and small nonzero |x3 − y2| via lattice reduction by Noam D. Elkies]
+* https://www.researchgate.net/publication/226499611_Lattice_Basis_Reduction_Improved_Practical_Algorithms_and_Solving_Subset_Sum_Problems[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems by Claus Peter Schnorr]
+* * https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
 Number Generator] _Irrelevant_
+* https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
+* https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[I m proved Lattice Basis Red uction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
 
 
+_These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
 
 = Books
 
