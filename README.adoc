@@ -84,7 +84,7 @@ Seeds & Generation: Ways to enter a Seed]
 * https://www.math.arizona.edu/~tgk/mc/book_chap3.pdf[Extra Info on RNGs]
 
 * https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
-Number Generator]
+Number Generator ☆☆☆☆]
 
 
 
