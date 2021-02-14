@@ -7,10 +7,13 @@
 
 * **Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, Cubiomes , old stuff that was once considered to crack seeds**
 
-* Considered - Add relevant people section to name those who took up the work on cracking minecraft seeds. (KaptainWutax , Neil, EarthComputer, Matthew, Andrew, L64, Cortex, other folks from Minecraft@Home project as well) 
+* Considered - **Add relevant people section to name those who took up the work on cracking minecraft seeds. (KaptainWutax , Neil, EarthComputer, Matthew, Andrew, L64, Cortex, other folks from Minecraft@Home project as well)**
+* Considered - Add section for starting out with code for those who are very new to this
 
 * Add `tools` section for tools like MineMap , SeedCandy, SeedCracker, SASSA and other tools
 * Add Latice Reduction papers (LLL, BKZ discussion etc)
+* **Add topics on what Monkeys is research(?)/looking for today i.e, modern seed cracking hunt and what it is about**
+* Add section to find relevant code in the decompiled-mapped minecraft codebase
 
 
 //Thank you to everyone who created such quality articles / worked on making seed reverse engineering possible !
