@@ -102,8 +102,30 @@ Number Generator] _Irrelevant_
 * https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
 * https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[Lattice Basis Reduction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
 
-
 _These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
+
+.Tools
+
+* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amdidst but really better <lol>]
+* https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
+* https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
+* https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod]
+* https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
+* https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - Library to mimic terrain generation]
+* https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
+* https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
+* https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
+* https://github.com/KaptainWutax/MathUtils[MathUtils by KaptainWutax - lib for "maths utilities specific to lcg shortcutting and Minecraft world gen"]
+* https://github.com/mjtb49/ChunkRandomReversal[ChunkRandomReversal by mjtb49 - A collection of algorithms to reverse using partial information various hashes used by Minecraft to seed its ChunkRandom PRNG]
+* https://github.com/MCRcortex/TreeCracker[TreeCracker(MSCT) by MCRCortex - Seed Cracker based on Trees]
+* https://github.com/KaptainWutax/Kaktoos[Kaktoos by KaptainWutax - CUDA program to find tallest cactii]
+* https://github.com/Earthcomputer/SecureSeed[SecureSeed by EarthComputer - Anti Seed Tamper Tech <idk if this is a joke or not>]
+* https://github.com/hube12/DecompilerMC[DecompilerMC by Neil - Uses Mojang Mappings , MC decompiler]
+* https://seedfinding.com/shadow_seed/[Seedfinding.com by Neil - Gateway Locations and Shadow Seed finder]
+* https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
+* Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
+
+_Old,deprecated tools aren't listed but can be found in the old-tools.adoc listing(tbd). If someone isn't credit or mis-credit please open an issue so I can correct it_ 
 
 = Books
 
