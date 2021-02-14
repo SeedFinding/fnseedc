@@ -60,6 +60,9 @@ Seeds & Generation: Ways to enter a Seed]
 
 = PDF / Articles
 
+.WorldGen Specifics
+_TBD_
+
 .Modular Arithmetic
 
 * https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[☆☆]
@@ -104,7 +107,7 @@ Number Generator] _Irrelevant_
 
 _These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
 
-.Tools
+= Tools
 
 * https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amdidst but really better <lol>]
 * https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
@@ -130,7 +133,6 @@ _Old,deprecated tools aren't listed but can be found in the old-tools.adoc listi
 = Books
 
 * Lattice Basis Reduction: An Introduction to the LLL Algorithm and Its Applications by Murray R Bremner
-
 * Donald Knuth, The Art of Computer Programming, Volume 2, Section 3.2.1
 
 
