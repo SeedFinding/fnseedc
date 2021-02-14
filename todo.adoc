@@ -1,0 +1,16 @@
+* Add more book resource
+* Ask Monkeys for permission for their discord server link to be added
+* Add more math articles
+* Add more Computer Science(Bit Manipulation) articles
+* Add write-ups for Modular Inverses
+* Add terminology section
+
+* **Add `relevant code` section and `reversal libs` section**
+
+
+
+
+//Thank you to everyone who created such quality articles / worked on making seed reverse engineering possible !
+
+
+No copyright infringement intended.
