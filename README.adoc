@@ -94,8 +94,8 @@ Lattice Reduction Methods by Alexander May]
 * http://www.crypto-uni.lu/jscoron/publications/bivariate.pdf[Finding Small Roots of Bivariate Integer Polynomial Equations Revisited by Jean-Se´bastien Coron]
 * https://www2.eecs.berkeley.edu/Pubs/TechRpts/1984/CSD-84-186.pdf[Discrete Logarithms and factoring by Eric Bach]
 * https://www.iacr.org/archive/asiacrypt2011/70730001/70730001.pdf[BKZ 2.0: Better Lattice Security Estimates by Yuanmi Chen and Phong Q. Nguyen]
-* https://www.newton.ac.uk/files/seminar/20140509093009501-202978.pdf [Presentation - The BKZ algorithm by Joop van de Pol]
-* https://arxiv.org/pdf/math/0005139.pdf[Rational points near curves and small nonzero |x3 − y2| via lattice reduction by Noam D. Elkies]
+* https://www.newton.ac.uk/files/seminar/20140509093009501-202978.pdf[Presentation - The BKZ algorithm by Joop van de Pol]
+* https://arxiv.org/pdf/math/0005139.pdf[Rational points near curves and small nonzero |x^3 − y^2| via lattice reduction by Noam D. Elkies]
 * https://www.researchgate.net/publication/226499611_Lattice_Basis_Reduction_Improved_Practical_Algorithms_and_Solving_Subset_Sum_Problems[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems by Claus Peter Schnorr]
 * * https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
 Number Generator] _Irrelevant_
