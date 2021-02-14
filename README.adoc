@@ -10,6 +10,8 @@ endif::[]
 
 _Please check todo.adoc in case you have something to help out from there_
 
+**READ how-not-to-be-an-idiot.adoc before reading this if you are a total newbie**
+
 === Write-ups
 
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
