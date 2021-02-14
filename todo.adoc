@@ -12,9 +12,10 @@
 
 * Add `tools` section for tools like MineMap , SeedCandy, SeedCracker, SASSA and other tools
 * +++<del>+++Add Latice Reduction papers (LLL, BKZ discussion etc)+++</del>+++ _Done for now_
-* **Add topics on what Monkeys is research(?)/looking for today i.e, modern seed cracking hunt and what it is about**
+* **Add topics on what Monkeys is researching(?)/looking for today i.e, modern seed cracking hunt and what it is about**
 * Add section to find relevant code in the decompiled-mapped minecraft codebase
 
+* _Over Ambitious Plan_ Considered : Deep dive into LattiCG code to see what it is doing and writeups based on that.
 
 //Thank you to everyone who created such quality articles / worked on making seed reverse engineering possible !
 
