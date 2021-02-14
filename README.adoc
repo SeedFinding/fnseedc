@@ -62,7 +62,6 @@ Seeds & Generation: Ways to enter a Seed]
 
 .Modular Arithmetic
 
-* https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
 * https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[☆☆]
 * https://davidaltizio.web.illinois.edu/ModularArithmetic.pdf[☆☆☆]
 * https://people.cs.clemson.edu/~goddard/texts/discreteMath/C2.pdf[☆☆☆]
@@ -78,6 +77,7 @@ Seeds & Generation: Ways to enter a Seed]
 * https://web.cse.ohio-state.edu/~reeves.92/CSE2421au12/SlidesDay18.pdf[General Notes on bit operations]
 * https://en.wikipedia.org/wiki/Bitwise_operation#Mathematical_equivalents[Generic Wiki Page -> Opens at Mathematical Equivalents]
 * https://stackoverflow.com/questions/14279866/what-is-inverse-function-to-xor[Inverse of XORs]
+* https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
 
 .Lattice Articles
 //TODO
