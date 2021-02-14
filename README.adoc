@@ -100,7 +100,7 @@ Lattice Reduction Methods by Alexander May]
 * * https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
 Number Generator] _Irrelevant_
 * https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
-* https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[I m proved Lattice Basis Red uction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
+* https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[Lattice Basis Reduction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
 
 
 _These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
