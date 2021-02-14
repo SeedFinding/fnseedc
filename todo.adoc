@@ -1,4 +1,4 @@
-* Add more book suggestion (To be first queried from Matthew Bolan)
+* Add more book suggestions (To be first queried from Matthew Bolan)
 * Ask Monkeys for permission for their discord server link to be added
 * Add more math articles (To be first queried from Matthew Bolan)
 * Add more Computer Science( specifcally, Bit Manipulation) articles
