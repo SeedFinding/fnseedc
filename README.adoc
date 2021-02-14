@@ -8,49 +8,49 @@ endif::[]
 
 = Collection of resources for Newbies to Minecraft Seedcracking Scene
 
- * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
- 
- * https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
+* https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
- * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆;
+* https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
 
- * https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator[General talk on LCG state prediction]
+* https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆;
 
- * https://en.wikipedia.org/wiki/Linear_congruential_generator[Generic Wikipedia Article]
+* https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator[General talk on LCG state prediction]
 
- * https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
+* https://en.wikipedia.org/wiki/Linear_congruential_generator[Generic Wikipedia Article]
 
- * https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample]
+* https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
 
- * http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices]
+* https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample]
 
- * https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
+* http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices]
 
- * https://imgur.com/a/eWn481F[YES]
+* https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
+
+* https://imgur.com/a/eWn481F[YES]
 
 = Videos
 
- .https://github.com/mjtb49[Matthew Bolan]
- 
- * https://www.youtube.com/watch?v=XVrR1WImOh8[Minecraft Seedfinding Ep. 1 - Linear Congruential Generators]
- * https://www.youtube.com/watch?v=mc9w2iD3Gzs[Minecraft Seedfinding Ep. 2 Pt.1 - A General Seedfinding Problem]
- * https://www.youtube.com/watch?v=gsaV9gcLntM[Minecraft Seedfinding Ep. 2 Pt. 2 - Lattices and Linear Programming]
- * https://www.youtube.com/watch?v=8CKh4x4iK38&t=522s[A thing]
+.https://github.com/mjtb49[Matthew Bolan]
+
+* https://www.youtube.com/watch?v=XVrR1WImOh8[Minecraft Seedfinding Ep. 1 - Linear Congruential Generators]
+* https://www.youtube.com/watch?v=mc9w2iD3Gzs[Minecraft Seedfinding Ep. 2 Pt.1 - A General Seedfinding Problem]
+* https://www.youtube.com/watch?v=gsaV9gcLntM[Minecraft Seedfinding Ep. 2 Pt. 2 - Lattices and Linear Programming]
+* https://www.youtube.com/watch?v=8CKh4x4iK38&t=522s[A thing]
 
 .https://github.com/hube12[Neil(Hube12)]
 
- * https://www.youtube.com/watch?v=esbxCDHvjvo[IN
+* https://www.youtube.com/watch?v=esbxCDHvjvo[IN
 Seedfinding tutorial part 0: Structures and LCG]
- * https://www.youtube.com/watch?v=OvSUkr6Icfo&t=1006s[IN
+* https://www.youtube.com/watch?v=OvSUkr6Icfo&t=1006s[IN
 Seedfinding tutorial part 1: Biome Generation and shortcutting]
- * https://www.youtube.com/watch?v=IN8hgb8E_80[IN
+* https://www.youtube.com/watch?v=IN8hgb8E_80[IN
 Seedfinding tutorial part 2: Terrain Gen and Noises]
- * https://www.youtube.com/watch?v=EQSzSN-uklY[Seedfinding tutorial part 3: Recursion, Mineshaft, Stronghold and Fortress]
- * https://www.youtube.com/watch?v=sRwz-wEq9YI[Seedfinding tutorial part 4: Latticg]
+* https://www.youtube.com/watch?v=EQSzSN-uklY[Seedfinding tutorial part 3: Recursion, Mineshaft, Stronghold and Fortress]
+* https://www.youtube.com/watch?v=sRwz-wEq9YI[Seedfinding tutorial part 4: Latticg]
 
 .Panda4994
 
- * https://www.youtube.com/watch?v=OLS7CCgNcuY[IN
+* https://www.youtube.com/watch?v=OLS7CCgNcuY[IN
 Seeds & Generation: Ways to enter a Seed]
 
 
@@ -66,7 +66,7 @@ Seeds & Generation: Ways to enter a Seed]
 
 .Bit Stuff
 
-* IMPORTANT: https://en.wikipedia.org/wiki/Bit_numbering[Generic Wikipedia Page on Bit Numbering]
+* [IMPORTANT] https://en.wikipedia.org/wiki/Bit_numbering[Generic Wikipedia Page on Bit Numbering]
 * https://stackoverflow.com/questions/141525/what-are-bitwise-shift-bit-shift-operators-and-how-do-they-work[Understanding what `>>` , `>>>` and `<<` are , read I and III answer]
 * https://stackoverflow.com/questions/17256644/how-does-the-bitwise-and-work-in-java[How AND works]
 * https://web.cse.ohio-state.edu/~reeves.92/CSE2421au12/SlidesDay18.pdf[General Notes on bit operations]
@@ -96,5 +96,5 @@ Number Generator]
 
 [NOTE]
 ===
- No copyright infringement intended.
+No copyright infringement intended.
 ===
