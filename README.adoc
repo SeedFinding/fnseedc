@@ -130,7 +130,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
 * Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
 
-_Old,deprecated tools aren't listed but can be found in the old-tools.adoc listing(tbd). If someone isn't credit or mis-credit please open an issue so I can correct it_ 
+_Old or deprecated tools aren't listed but can be found in the old-tools.adoc listing(tbd). If someone isn't credited or mis-credit please open an issue so I can correct it_ 
 
 = Books
 
