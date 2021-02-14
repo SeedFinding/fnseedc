@@ -11,7 +11,7 @@
 * Considered - Add section for starting out with code for those who are very new to this
 
 * Add `tools` section for tools like MineMap , SeedCandy, SeedCracker, SASSA and other tools
-* Add Latice Reduction papers (LLL, BKZ discussion etc)
+* +++<del>+++Add Latice Reduction papers (LLL, BKZ discussion etc)+++</del>+++ _Done for now_
 * **Add topics on what Monkeys is research(?)/looking for today i.e, modern seed cracking hunt and what it is about**
 * Add section to find relevant code in the decompiled-mapped minecraft codebase
 
