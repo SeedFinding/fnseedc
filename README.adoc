@@ -8,6 +8,8 @@ endif::[]
 
 = Collection of resources for Newbies to Minecraft Seedcracking Scene
 
+=== Write-ups
+
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
 * https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
@@ -54,7 +56,7 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 Seeds & Generation: Ways to enter a Seed]
 
 
-= PDF Articles
+= PDF / Articles
 
 .Modular Arithmetic
 
