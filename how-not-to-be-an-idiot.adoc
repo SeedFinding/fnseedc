@@ -1,0 +1,20 @@
+= Read this before seeking help (especially in discords)
+
+. No one likes the annoying guy who hardly is dedicated/motivated or has even tried to put in a single effort to start with said topic.
+. Especially for people who have spent considerable time invested in a field , it gets annoying when someone just enters and asks them "guise!!11 plz help , i wanna lern sed crecking !!!11".
+
+. **DON'T BE _THAT_ GUY**
+
+. The main reason i created the repo so people have a starting point whether it be Matthew's videos or some articles , at least be familiar on what goes into it.
+. Start with square one - learning what RNGs are , how minecraft uses them, healthy bit of bit operations & Matrices and getting familiar with their lingo (no one is gonna explain again and again what a chunkseed or what a salt is)
+
+
+
+
+* **Bottom Line : Know your stuff before seeking help, invest time in your craft then go talk to them. **
+
+.Common Pitfalls to avoid
+* Don't ask to crack a seed for "X" server or "Y" world or some popular youtubers world.
+* **Try using the tools mentioned in the repo before asking for any novice help. Repeat the cracking procedure atleast twice-thrice then ask for help if everything fails.**
+* Don't annoy them asking idiotic questions - Understand that they are not obliged to help, they will if they feel like it; No need to fuss about it.
+
