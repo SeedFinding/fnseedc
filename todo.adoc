@@ -3,7 +3,7 @@
 * Add more math articles (To be first queried from Matthew Bolan)
 * Add more Computer Science( specifcally, Bit Manipulation) articles
 * Add write-ups for Modular Inverses , easy to understand intuitive talk on Lattices and why they are cool
-* Add terminology section for terms like -> phase, period, state, fuction call, attack, salts, structure, WorldSeed, LayerSeed, ChunkSeed, CarverSeed etc
+* Add terminology section for terms like -> phase, period, state, fuction call, attack, salts, structure, WorldSeed, LayerSeed, ChunkSeed, CarverSeed,offsets, basis etc
 
 * **Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, Cubiomes , old stuff that was once considered to crack seeds**
 
