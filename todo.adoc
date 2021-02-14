@@ -1,12 +1,13 @@
-* Add more book resource
+* Add more book suggestion (To be first queried from Matthew Bolan)
 * Ask Monkeys for permission for their discord server link to be added
-* Add more math articles
-* Add more Computer Science(Bit Manipulation) articles
-* Add write-ups for Modular Inverses
-* Add terminology section
+* Add more math articles (To be first queried from Matthew Bolan)
+* Add more Computer Science( specifcally, Bit Manipulation) articles
+* Add write-ups for Modular Inverses , easy to understand intuitive talk on Lattices and why they are cool
+* Add terminology section for terms like -> phase, period, state, fuction call, attack, salts, structure, WorldSeed, LayerSeed, ChunkSeed, CarverSeed etc
 
-* **Add `relevant code` section and `reversal libs` section**
+* **Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, old stuff that was once considered to crack seeds**
 
+* Considered - Add relevant people section to name those who took up the work on cracking minecraft seeds. (KaptainWutax , Neil, EarthComputer, Matthew, Andrew, L64, Cortex, other folks from Minecraft@Home project as well) 
 
 
 
