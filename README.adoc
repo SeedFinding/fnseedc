@@ -120,7 +120,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing] 
-* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amdidst but really better <lol>]
+* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>]
 * https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
 * https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
@@ -144,7 +144,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/SeedFinding/java_random_rs[java_random_rs by Neil - lib for java random utils <?> part of SeedFinding Factory]
 * https://github.com/SeedFinding/MCBiomes[MCBiomes by Neil - <Probably> code to mimic biome generation <!not confirmed>]
 * https://github.com/hube12/SSG[SSG by Neil - 12 eye seeds searcher]
-* https://github.com/hube12/latticg_rs[LattiCG_rs by Neil - LattiCG written in Rust <unconfirmed stability>]
+* https://github.com/hube12/latticg_rs[LattiCG_rs by Neil - LattiCG written in Rust]
 
 * Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
 
