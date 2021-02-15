@@ -20,13 +20,13 @@ toc::[]
 
 === Write-ups
 
-* https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
-
-* https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
+* https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer - 10/10 the best one to clear up any mental clog related to the concept] ☆☆☆☆☆
 
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆
 
-* https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer] ☆☆☆☆☆
+* https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
+
+* https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
 
 * https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator[General talk on LCG state prediction]
 
@@ -34,7 +34,7 @@ toc::[]
 
 * https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
 
-* https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample ☆☆☆☆☆]
+* https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample] ☆☆☆☆☆
 
 * http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices]
 
