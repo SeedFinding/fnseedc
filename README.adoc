@@ -71,6 +71,10 @@ Seeds & Generation: Ways to enter a Seed]
 
 * https://www.youtube.com/watch?v=U8MI2a_BHHo[LLL Algorithm]
 
+.https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw[3Blue1Brown]
+
+* https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B[IMPORTANT: Essence of Linear Algebra series]
+
 
 = PDF / Articles
 
@@ -79,12 +83,14 @@ _TBD_
 
 .Modular Arithmetic
 
-* https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[☆☆]
-* https://davidaltizio.web.illinois.edu/ModularArithmetic.pdf[☆☆☆]
-* https://people.cs.clemson.edu/~goddard/texts/discreteMath/C2.pdf[☆☆☆]
-* https://sites.millersville.edu/bikenaga/abstract-algebra-1/modular-arithmetic/modular-arithmetic.pdf[☆☆☆]
-* https://courses.cs.washington.edu/courses/cse311/15au/documents/ModularEquivalences.pdf[☆☆]
+* https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[Notes on modular Arithmetic]
+* https://davidaltizio.web.illinois.edu/ModularArithmetic.pdf[More notes ]
+* https://people.cs.clemson.edu/~goddard/texts/discreteMath/C2.pdf[Class Notes on Modular Arithmetic]
+* https://sites.millersville.edu/bikenaga/abstract-algebra-1/modular-arithmetic/modular-arithmetic.pdf[Basics of Modular Arithmetic]
+* https://courses.cs.washington.edu/courses/cse311/15au/documents/ModularEquivalences.pdf[Modular Equivalences]
 * https://crypto.stackexchange.com/questions/47493/how-to-determine-the-multiplicative-inverse-modulo-64-or-other-power-of-two[How to determine the multiplicative inverse modulo 64 (or other power of two)?]
+
+_Pick any one of the modular arithmetic notes if confused_
 
 .Bit Stuff
 
@@ -112,7 +118,6 @@ Lattice Reduction Methods by Alexander May]
 * https://www2.eecs.berkeley.edu/Pubs/TechRpts/1984/CSD-84-186.pdf[Discrete Logarithms and factoring by Eric Bach]
 * https://www.iacr.org/archive/asiacrypt2011/70730001/70730001.pdf[BKZ 2.0: Better Lattice Security Estimates by Yuanmi Chen and Phong Q. Nguyen]
 * https://www.newton.ac.uk/files/seminar/20140509093009501-202978.pdf[Presentation - The BKZ algorithm by Joop van de Pol]
-* https://arxiv.org/pdf/math/0005139.pdf[Rational points near curves and small nonzero |x^3 − y^2| via lattice reduction by Noam D. Elkies]
 * * https://hal.archives-ouvertes.fr/hal-02700791/document[Practical seed-recovery for the PCG Pseudo-Random
 Number Generator] _Irrelevant_
 * https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
@@ -162,6 +167,12 @@ _Old or deprecated tools aren't listed but can be found in the old-tools.adoc li
 
 * Lattice Basis Reduction: An Introduction to the LLL Algorithm and Its Applications by Murray R Bremner
 * Donald Knuth, The Art of Computer Programming, Volume 2, Section 3.2.1
+
+= Discords
+
+* https://discord.gg/7P3nqzZ[Monkeys]
+* https://discord.gg/xArErFf[Minecraft@Home]
+* https://discord.gg/tDPvR9c[Minecraft Seedrunning's #seed-research channel]
 
 
 
