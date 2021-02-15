@@ -116,6 +116,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 = Tools
 
+* https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amdidst but really better <lol>]
 * https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
 * https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
