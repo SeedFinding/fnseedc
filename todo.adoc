@@ -5,7 +5,7 @@
 * Add write-ups for Modular Inverses , easy to understand intuitive articles on Lattices and why they are cool as such
 * +++<del>+++Add terminology section for terms like -> phase, period, state, fuction call, attack, salts, structure, WorldSeed, LayerSeed, ChunkSeed, CarverSeed,offsets, basis etc +++</del>+++ _WIP_ **Check terminlogy-wip.adoc if you can help**
 
-* **Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, Cubiomes , old stuff that was once considered to crack seeds**
+* +++<del>+++**Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, Cubiomes , old stuff that was once considered to crack seeds**+++</del>+++ _Done_
 
 * Considered - **Add relevant people section to name those who took up the work on cracking minecraft seeds. (KaptainWutax , Neil, EarthComputer, Matthew, Andrew, L64, Cortex, other folks from Minecraft@Home project as well)**
 * Considered - Add section for starting out with code for those who are very new to this
