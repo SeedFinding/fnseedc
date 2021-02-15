@@ -26,6 +26,8 @@ toc::[]
 
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆
 
+* https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer] ☆☆☆☆☆
+
 * https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator[General talk on LCG state prediction]
 
 * https://en.wikipedia.org/wiki/Linear_congruential_generator[Generic Wikipedia Article]
