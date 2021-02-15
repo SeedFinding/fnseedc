@@ -62,10 +62,14 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 * https://www.youtube.com/watch?v=EQSzSN-uklY[Seedfinding tutorial part 3: Recursion, Mineshaft, Stronghold and Fortress]
 * https://www.youtube.com/watch?v=sRwz-wEq9YI[Seedfinding tutorial part 4: Latticg]
 
-.Panda4994
+.https://www.youtube.com/user/Panda4994[Panda4994]
 
 * https://www.youtube.com/watch?v=OLS7CCgNcuY[
 Seeds & Generation: Ways to enter a Seed]
+
+.https://www.youtube.com/channel/UCx9W2ZQpyDnkzxZIRRON-Yg[Steven Schaefer]
+
+* https://www.youtube.com/watch?v=U8MI2a_BHHo[LLL Algorithm]
 
 
 = PDF / Articles
