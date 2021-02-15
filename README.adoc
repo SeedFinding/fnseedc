@@ -144,7 +144,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 * Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
 
-TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned below; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import]
+TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned above; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import]
 
 TIP: https://github.com/SeedFinding[SeedFinding by Neil - lib written in **rust** for various minecraft generators etc]
 
