@@ -123,6 +123,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod]
 * https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
 * https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - Library to mimic terrain generation]
+* https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
 * TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned below , basically use FeatureUtils,BiomeUtils,SeedUtils,MathUtils freely with just this import]
 * https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
 * https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
