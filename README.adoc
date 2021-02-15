@@ -8,7 +8,7 @@ endif::[]
 :toc:
 :toc-placement!:
 
-= Collection of resources for Newbies to Minecraft Seedcracking Scene
+= Collection of resources for Newbies-All to Minecraft Seedcracking Scene
 
 _Please check todo.adoc in case you have something to help out from there_
 
