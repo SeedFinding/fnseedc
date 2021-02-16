@@ -1,8 +1,8 @@
 * +++<del>+++Add more book suggestions+++</del>+++ Unnecessary
-* Ask Monkeys for permission for their discord server link to be added
-* Add more math articles (To be first queried from Matthew Bolan) 
+* +++<del>+++Ask Monkeys for permission for their discord server link to be added+++</del>+++_Done_
+* +++<del>+++Add more math articles (To be first queried from Matthew Bolan)+++</del>+++ _WIP_
 * Add more Computer Science( specifcally, Bit Manipulation) articles
-* Add write-ups for Modular Inverses , easy to understand intuitive articles on Lattices and why they are cool as such
+* +++<del>+++Add write-ups for Modular Inverses , easy to understand intuitive articles on Lattices and why they are cool as such+++</del>+++ _Done_
 * +++<del>+++Add terminology section for terms like -> phase, period, state, fuction call, attack, salts, structure, WorldSeed, LayerSeed, ChunkSeed, CarverSeed,offsets, basis etc +++</del>+++ _WIP_ **Check terminlogy-wip.adoc if you can help**
 
 * +++<del>+++**Add `relevant code` section and `reversal libs` section -> EarthComputer's Libseedfinding , KaptainWutax's things, LattiCG, Cubiomes , old stuff that was once considered to crack seeds**+++</del>+++ _Done_
