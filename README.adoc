@@ -90,6 +90,10 @@ _TBD_
 * https://courses.cs.washington.edu/courses/cse311/15au/documents/ModularEquivalences.pdf[Modular Equivalences]
 * https://crypto.stackexchange.com/questions/47493/how-to-determine-the-multiplicative-inverse-modulo-64-or-other-power-of-two[How to determine the multiplicative inverse modulo 64 (or other power of two)?]
 
+* NERD : https://wstein.org/ent/ent.pdf[Elementary Number Theory: Primes, Congruences, and Secrets by William Stein]
+* NERD : https://www.math.wustl.edu/~matkerr/NTCbook.pdf[Lecture Notes in Number Theory and Cryptography by Matt Kerr]
+
+
 _Pick any one of the modular arithmetic notes if confused_
 
 .Bit Stuff
