@@ -76,10 +76,10 @@ Seeds & Generation: Ways to enter a Seed]
 
 = PDF / Articles
 
-.WorldGen Specifics
+=== WorldGen Specifics
 _TBD_
 
-.Modular Arithmetic
+=== Modular Arithmetic
 
 * https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[Notes on modular Arithmetic]
 * https://davidaltizio.web.illinois.edu/ModularArithmetic.pdf[More notes ]
@@ -91,10 +91,16 @@ _TBD_
 * NERD : https://wstein.org/ent/ent.pdf[Elementary Number Theory: Primes, Congruences, and Secrets by William Stein]
 * NERD : https://www.math.wustl.edu/~matkerr/NTCbook.pdf[Lecture Notes in Number Theory and Cryptography by Matt Kerr]
 
-_The NERD documents are long and are only recommended if you want to start from the basics, especially the William Stein notes are by far better to start with.Pick any one of the top 4 modular arithmetic notes if confused. Then for the follow up read the modular equivalences article._
+----
 
+The NERD documents are long and are only recommended if you want to start from the basics, 
+especially the William Stein notes are by far better to start with.
+Pick any one of the top 4 modular arithmetic notes if confused. 
+Then for the follow up read the modular equivalences article.
 
-.Hensel Lifting (Use cases -> (Discrete log problem : find number of calls between two seeds) and (Mod Inversion : Find inverses speedily)
+----
+
+=== Hensel Lifting (Use cases -> (Discrete log problem : find number of calls between two seeds) AND (Mod Inversion : Find inverses speedily)
 
 * https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem[Khan Academy video on Discrete Log Problem - Excellent to get a feel of what it is about ; Think of the clock values to be seeds]
 * https://brilliant.org/wiki/hensels-lemma/[THEORY: Hensel's Lemma by brilliant.org]
@@ -106,7 +112,7 @@ _The NERD documents are long and are only recommended if you want to start from 
 * https://github.com/KaptainWutax/MonkeyBot/blob/be36f0b5f35302fe130b8de285e5fed0401840d2/src/main/java/kaptainwutax/monkey/utility/math/DiscreteLog.java#L56[Cleaner implementation of where the discrete log problem shows up]
 
 
-.Bit Stuff
+=== Bit Stuff
 
 * [IMPORTANT] https://en.wikipedia.org/wiki/Bit_numbering[Generic Wikipedia Page on Bit Numbering]
 * https://stackoverflow.com/questions/141525/what-are-bitwise-shift-bit-shift-operators-and-how-do-they-work[Understanding what `>>` , `>>>` and `<<` are , read I and III answer]
@@ -117,15 +123,15 @@ _The NERD documents are long and are only recommended if you want to start from 
 * https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
 
 
-.Matrices
+=== Matrices
 * http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices - Recommended though assumes you have seen 3blue1brown series]
 
-.RNGs
+=== RNGs
 * https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux[What are RNGs - RedHat article]
 * https://www.win.tue.nl/~marko/2WB05/lecture5.pdf[TUE Lecture Slides on RNG]
 * https://www.math.arizona.edu/~tgk/mc/book_chap3.pdf[Extra Info on RNGs]
 
-.Relevant Papers [Credits : https://github.com/mjtb49[Matthew Bolan] on Monkeys Discord]
+=== Relevant Papers [Credits : https://github.com/mjtb49[Matthew Bolan] on Monkeys Discord]
 
 * https://www.math.uni-frankfurt.de/~dmst/teaching/WS2014/Vorlesung/Alex.May.pdf[New RSA Vulnerabilities Using
 Lattice Reduction Methods by Alexander May]
