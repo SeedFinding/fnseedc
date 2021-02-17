@@ -14,10 +14,13 @@ _Please check todo.adoc in case you have something to help out from there_
 
 **READ how-not-to-be-an-idiot.adoc before reading this if you are a total newbie**
 
+---
+
 .**Table of Contents**
 
 toc::[]
 
+---
 === Write-ups
 
 * https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer - 10/10 the best one to clear up any mental clog related to the concept] ☆☆☆☆☆
