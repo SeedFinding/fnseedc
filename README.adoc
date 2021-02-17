@@ -158,6 +158,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
 * https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
+* https://github.com/DaMatrix/TerrainFinder[bedrock coordinate locator by DaMatrix]
 * https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod]
 * https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
 * https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - Library to mimic terrain generation]
