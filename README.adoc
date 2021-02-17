@@ -36,8 +36,6 @@ toc::[]
 
 * https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample] ☆☆☆☆☆
 
-* http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices]
-
 * https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
 
 * https://imgur.com/a/eWn481F[YES]
@@ -93,8 +91,20 @@ _TBD_
 * NERD : https://wstein.org/ent/ent.pdf[Elementary Number Theory: Primes, Congruences, and Secrets by William Stein]
 * NERD : https://www.math.wustl.edu/~matkerr/NTCbook.pdf[Lecture Notes in Number Theory and Cryptography by Matt Kerr]
 
+_The NERD documents are long and are only recommended if you want to start from the basics, especially the William Stein notes are by far better to start with.Pick any one of the top 4 modular arithmetic notes if confused. Then for the follow up read the modular equivalences article._
 
-_Pick any one of the modular arithmetic notes if confused_
+
+.Hensel Lifting (Use cases -> (Discrete log problem : find number of calls between two seeds) and (Mod Inversion : Find inverses speedily)
+
+* https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem[Khan Academy video on Discrete Log Problem - Excellent to get a feel of what it is about ; Think of the clock values to be seeds]
+* https://brilliant.org/wiki/hensels-lemma/[THEORY: Hensel's Lemma by brilliant.org]
+* NERD : https://www.csa.iisc.ac.in/~chandan/courses/CNT/notes/lec12.pdf[THEORY: IISC notes - Highly Recommended especially the excercise !]
+* IMPORTANT: https://marc-b-reynolds.github.io/math/2017/09/18/ModInverse.html[computing the multiplicative inverse - Practical stuff however check the below link below for an apt implementation]
+* https://gist.github.com/XI64/ea63f7d7cd8a3a2c9cb4b4c3c3809d8a[Gist on the said computational method presented above and how it is used]
+* https://github.com/mjtb49/LattiCG/blob/5695b82174dc4b22b3ffb216851eae762c2c8289/src/main/java/com/seedfinding/latticg/util/Mth.java#L22[Practical Implementation of the mod inversion demonstrated above]
+* https://github.com/mjtb49/BoundNextIntSkips[Practical application of Discrete Log Problem in context of Minecraft - Matthew Bolan's BoundIntSkips]
+* https://github.com/KaptainWutax/MonkeyBot/blob/be36f0b5f35302fe130b8de285e5fed0401840d2/src/main/java/kaptainwutax/monkey/utility/math/DiscreteLog.java#L56[Cleaner implementation of where the discrete log problem shows up]
+
 
 .Bit Stuff
 
@@ -106,10 +116,11 @@ _Pick any one of the modular arithmetic notes if confused_
 * https://stackoverflow.com/questions/14279866/what-is-inverse-function-to-xor[Inverse of XORs]
 * https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
 
-.Lattice Articles
-//TODO
 
-.RNG
+.Matrices
+* http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices - Recommended though assumes you have seen 3blue1brown series]
+
+.RNGs
 * https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux[What are RNGs - RedHat article]
 * https://www.win.tue.nl/~marko/2WB05/lecture5.pdf[TUE Lecture Slides on RNG]
 * https://www.math.arizona.edu/~tgk/mc/book_chap3.pdf[Extra Info on RNGs]
