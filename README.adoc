@@ -154,21 +154,14 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 = Tools
 
+* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing] 
-* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>]
 * https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
-* https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
 * https://github.com/DaMatrix/TerrainFinder[bedrock coordinate locator by DaMatrix]
 * https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod]
-* https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
-* https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - Library to mimic terrain generation]
 * https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
-* https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
-* https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
-* https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
-* https://github.com/KaptainWutax/MathUtils[MathUtils by KaptainWutax - lib for "maths utilities specific to lcg shortcutting and Minecraft world gen"]
 * https://github.com/mjtb49/ChunkRandomReversal[ChunkRandomReversal by mjtb49 - A collection of algorithms to reverse using partial information various hashes used by Minecraft to seed its ChunkRandom PRNG]
 * https://github.com/MCRcortex/TreeCracker[TreeCracker(MSCT) by MCRCortex - Seed Cracker based on Trees]
 * https://github.com/KaptainWutax/Kaktoos[Kaktoos by KaptainWutax - CUDA program to find tallest cactii]
@@ -176,14 +169,22 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/hube12/DecompilerMC[DecompilerMC by Neil - Uses Mojang Mappings , MC decompiler]
 * https://seedfinding.com/shadow_seed/[Seedfinding.com by Neil - Gateway Locations and Shadow Seed finder]
 * https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
+* https://github.com/hube12/SSG[SSG by Neil - 12 eye seeds searcher]
+* Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
+
+==== Libraries 
+* https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
+* https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
+* https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
+* https://github.com/KaptainWutax/MathUtils[MathUtils by KaptainWutax - lib for "maths utilities specific to lcg shortcutting and Minecraft world gen"]
+* https://github.com/hube12/latticg_rs[LattiCG_rs by Neil - LattiCG written in Rust]
+* https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
+* https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
+* https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - Library to mimic terrain generation]
 * https://github.com/SeedFinding/minecraft_end_generation_rs[minecraft_end_generation_rs by Neil - lib for end generation<?> part of the SeedFinding factory]
 * https://github.com/SeedFinding/noise_rs[noise_rs by Neil - lib for noise replication<?> part of SeedFinding factory]
 * https://github.com/SeedFinding/java_random_rs[java_random_rs by Neil - lib for java random utils <?> part of SeedFinding Factory]
 * https://github.com/SeedFinding/MCBiomes[MCBiomes by Neil - <Probably> code to mimic biome generation <!not confirmed>]
-* https://github.com/hube12/SSG[SSG by Neil - 12 eye seeds searcher]
-* https://github.com/hube12/latticg_rs[LattiCG_rs by Neil - LattiCG written in Rust]
-
-* Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
 
 TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned above; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import]
 
