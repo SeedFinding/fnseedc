@@ -14,7 +14,7 @@ _Please check todo.adoc in case you have something to help out from there_
 
 **READ how-not-to-be-an-idiot.adoc before reading this if you are a total newbie**
 
-= **Table of Contents**
+.**Table of Contents**
 
 toc::[]
 
