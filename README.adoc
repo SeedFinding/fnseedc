@@ -185,7 +185,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
 * https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
 * https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - C Library to mimic terrain generation]
-https://github.com/jan-leila/js-cubiome[js-cubiome by jan-leila - Javascript bindings for Cubiomes]
+* https://github.com/jan-leila/js-cubiome[js-cubiome by jan-leila - Javascript bindings for Cubiomes]
 * https://github.com/SeedFinding/minecraft_end_generation_rs[minecraft_end_generation_rs by Neil - lib for end generation<?> part of the SeedFinding factory]
 * https://github.com/SeedFinding/noise_rs[noise_rs by Neil - lib for noise replication<?> part of SeedFinding factory]
 * https://github.com/SeedFinding/java_random_rs[java_random_rs by Neil - lib for java random utils <?> part of SeedFinding Factory]
