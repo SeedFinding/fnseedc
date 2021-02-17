@@ -100,7 +100,7 @@ Then for the follow up read the modular equivalences article.
 
 ----
 
-=== Hensel Lifting (Use cases -> (Discrete log problem : find number of calls between two seeds) AND (Mod Inversion : Find inverses speedily)
+=== Hensel Lifting
 
 * https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem[Khan Academy video on Discrete Log Problem - Excellent to get a feel of what it is about ; Think of the clock values to be seeds]
 * https://brilliant.org/wiki/hensels-lemma/[THEORY: Hensel's Lemma by brilliant.org]
@@ -111,6 +111,10 @@ Then for the follow up read the modular equivalences article.
 * https://github.com/mjtb49/BoundNextIntSkips[Practical application of Discrete Log Problem in context of Minecraft - Matthew Bolan's BoundIntSkips]
 * https://github.com/KaptainWutax/MonkeyBot/blob/be36f0b5f35302fe130b8de285e5fed0401840d2/src/main/java/kaptainwutax/monkey/utility/math/DiscreteLog.java#L56[Cleaner implementation of where the discrete log problem shows up]
 
+[NOTE] 
+===
+Use cases -> (Discrete log problem : find number of calls between two seeds) AND (Mod Inversion : Find inverses speedily
+===
 
 === Bit Stuff
 
