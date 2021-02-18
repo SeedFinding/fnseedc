@@ -23,7 +23,7 @@ toc::[]
 ---
 === Write-ups
 
-* https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer - 10/10 the best one to clear up any mental clog related to the concept] ☆☆☆☆☆
+* https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer] ☆☆☆☆☆
 
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆
 
@@ -42,6 +42,13 @@ toc::[]
 * https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
 
 * https://imgur.com/a/eWn481F[YES]
+
+* https://docs.google.com/document/d/17qdpv4aI-cByMk0x3vFiiWvAWddxyTZ3tk-ZEOqw1Is/edit[Mess Detector Article Script - Has a bit of relevant info] ☆☆☆☆☆
+
+----
+☆☆☆☆☆ articles are written by known minecraft seedcrackers (EarthComputer, Neil etc)
+and are in reference to Minecraft
+----
 
 = Videos
 
