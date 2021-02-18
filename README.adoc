@@ -123,7 +123,7 @@ Then for the follow up read the modular equivalences article.
 
 [NOTE] 
 ===
-Use cases -> (Discrete log problem : find number of calls between two seeds) AND (Mod Inversion : Find inverses speedily
+Use cases -> (Discrete log problem : find number of calls between two seeds) AND (Mod Inversion : Find inverses speedily)
 ===
 
 === Bit Stuff
