@@ -139,6 +139,8 @@ Use cases -> (Discrete log problem : find number of calls between two seeds) AND
 
 === Matrices
 * http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices - Recommended though assumes you have seen 3blue1brown series]
+* https://kel.bz/post/lattices/[Lattices in a friendly manner]
+* https://kel.bz/post/lll/[LLL with contrast to Gaussian reduction as well as Extended Euclid's Algorithm and others - also hands on so easy to read]
 
 === RNGs
 * https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux[What are RNGs - RedHat article]
