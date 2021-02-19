@@ -165,8 +165,7 @@ CAUTION: [Credits : https://github.com/mjtb49[Matthew Bolan] on Monkeys Discord]
 _These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
 
 = Tools
-
-* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>]
+* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>] || https://github.com/hube12/MineMap/releases/tag/1.16[Minemap Download]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing] 
 * https://github.com/polymetric/treecrackerPOS[treecrackerPOS by Polymetric - Tree based minecraft seed cracker]
