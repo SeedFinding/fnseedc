@@ -87,7 +87,7 @@ Seeds & Generation: Ways to enter a Seed]
 = PDF / Articles
 
 === WorldGen Specifics
-_TBD_
+* https://gist.github.com/XI64/0480256ed2836e4d301210899551c659[World Generation Overview written by TelepathicGrunt]
 
 === Modular Arithmetic
 
@@ -217,6 +217,7 @@ _Old or deprecated tools aren't listed but can be found in the old-tools.adoc li
 * https://discord.gg/7P3nqzZ[Monkeys]
 * https://discord.gg/xArErFf[Minecraft@Home]
 * https://discord.gg/tDPvR9c[Minecraft Seedrunning's #seed-research channel]
+* https://discord.gg/BuBGds9[Minecraft WorldGen]
 
 
 
