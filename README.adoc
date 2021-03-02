@@ -52,6 +52,13 @@ and are in reference to Minecraft
 
 = Videos
 
+.https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ[Richard E. BORCHERDS]
+* https://en.wikipedia.org/wiki/Richard_Borcherds[Who he is]
+
+----
+This channel is a goldmine for math lectures. Highly recommended to reference relevant math topics (p-adics, congruneces and what not)
+----
+
 .https://github.com/mjtb49[Matthew Bolan]
 
 * https://www.youtube.com/watch?v=XVrR1WImOh8[Minecraft Seedfinding Ep. 1 - Linear Congruential Generators]
