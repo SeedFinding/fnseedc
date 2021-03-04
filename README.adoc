@@ -174,7 +174,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 = Tools
 * https://github.com/hube12/vizard[vizard by Neil(hube12) - Tool to visualize structure generation in Minecraft] 
-* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>] || https://github.com/hube12/MineMap/releases/tag/1.19[Minemap Download]
+* https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>] || https://github.com/hube12/MineMap/releases/latest[Minemap Download]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/19MisterX98/SeedcrackerX[SeedcrackerX by 19MisterX98 - In-game seed cracking mod for all versions with GUI and other utils] || https://www.youtube.com/watch?v=8ytfZ2MXosY[How to use it] || https://www.youtube.com/watch?v=HKjwgofhKs4[SeedCrackerX's features demo]
 * https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod for 1.16]
