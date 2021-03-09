@@ -129,6 +129,7 @@ Then for the follow up read the modular equivalences article.
 * https://github.com/mjtb49/BoundNextIntSkips[Practical application of Discrete Log Problem in context of Minecraft - Matthew Bolan's BoundIntSkips]
 * https://github.com/KaptainWutax/MonkeyBot/blob/be36f0b5f35302fe130b8de285e5fed0401840d2/src/main/java/kaptainwutax/monkey/utility/math/DiscreteLog.java#L56[Cleaner implementation of where the discrete log problem shows up]
 * https://github.com/mjtb49/ChunkRandomReversal/blob/00baa8ab732ded31c462ef120f1868720c9c6332/src/main/java/mjtb49/hashreversals/CarverReverser.java#L12[Hensel Lift in ChunkRandomReversal]
+* https://math.stackexchange.com/questions/2008585/computing-the-distance-between-two-linear-congruential-generator-states/2355634[Distance from zero : Where the discrete log problem shows up!]
 
 [NOTE] 
 ===
