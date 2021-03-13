@@ -27,8 +27,6 @@ toc::[]
 
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆
 
-* https://tel.archives-ouvertes.fr/tel-01135998/document[Paper on security of LCGs which pretty much summarizes Matthew Bolan's video series]
-
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
 * https://www.pcg-random.org/predictability.html[On Predictability of LCG's and hints of further advancements on how to handle particular cases]
