@@ -164,6 +164,7 @@ Use cases -> (Discrete log problem : find number of calls between two seeds) AND
 
 == Relevant Papers
 
+* https://anonymousfiles.io/DgwwuVyO/[Tables of linear congruential generators of different sizes and good lattice structure by Pierre L’ecuyer]
 * https://www.math.uni-frankfurt.de/~dmst/teaching/WS2014/Vorlesung/Alex.May.pdf[New RSA Vulnerabilities Using
 Lattice Reduction Methods by Alexander May]
 * http://www.crypto-uni.lu/jscoron/publications/bivariate.pdf[Finding Small Roots of Bivariate Integer Polynomial Equations Revisited by Jean-Se´bastien Coron]
