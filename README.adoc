@@ -243,7 +243,7 @@ TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index f
 
 TIP: https://github.com/SeedFinding[SeedFinding by Neil - lib written in **rust** for various minecraft generators etc]
 
-_Old or deprecated tools aren't listed but a full tool listing can be found in Neil https://github.com/hube12[@hube12's] repo https://github.com/hube12/General-Seed-Finder-Tools[General Seed Finder Tools]_ 
+_Old or deprecated tools aren't listed but a full tool listing can be found all-tools.adoc(TBD)_ 
 
 = Books
 
