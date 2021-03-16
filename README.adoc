@@ -10,8 +10,6 @@ endif::[]
 
 = Collection of resources for Minecraft Seedcracking Scene
 
-_Please check todo.adoc in case you have something to help out from there_
-
 **READ how-not-to-be-an-idiot.adoc before reading this if you are a total newbie**
 
 ---
@@ -25,7 +23,9 @@ toc::[]
 
 * https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer] ☆☆☆☆☆
 
-* https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology]   ☆☆☆☆☆
+* https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology] ☆☆☆☆☆
+
+* https://anonymousfiles.io/TgdBc64x/[MAZE 3000 CTF Write-up which has some relevant info on lcg's etc] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
 
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
@@ -52,13 +52,6 @@ and are in reference to Minecraft
 
 = Videos
 
-.https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ[Richard E. BORCHERDS]
-* https://en.wikipedia.org/wiki/Richard_Borcherds[Who he is]
-
-----
-This channel is a goldmine for math lectures. Highly recommended to reference relevant math topics (p-adics, congruneces and what not)
-----
-
 .https://github.com/mjtb49[Matthew Bolan]
 
 * https://www.youtube.com/watch?v=XVrR1WImOh8[Minecraft Seedfinding Ep. 1 - Linear Congruential Generators]
@@ -79,8 +72,7 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 
 .https://www.youtube.com/user/Panda4994[Panda4994]
 
-* https://www.youtube.com/watch?v=OLS7CCgNcuY[
-Seeds & Generation: Ways to enter a Seed]
+* https://www.youtube.com/watch?v=OLS7CCgNcuY[Seeds & Generation: Ways to enter a Seed]
 
 .https://www.youtube.com/channel/UCx9W2ZQpyDnkzxZIRRON-Yg[Steven Schaefer]
 
@@ -90,14 +82,23 @@ Seeds & Generation: Ways to enter a Seed]
 
 * https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B[IMPORTANT: Essence of Linear Algebra series]
 
+.https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ[Richard E. BORCHERDS]
+* https://en.wikipedia.org/wiki/Richard_Borcherds[Who he is]
+
+----
+This channel is a goldmine for math lectures. Highly recommended to reference relevant math topics (p-adics, congruneces and what not)
+----
 
 = PDF / Articles
 
-=== WorldGen Specifics
+== WorldGen Specifics
 * https://gist.github.com/XI64/0480256ed2836e4d301210899551c659[World Generation Overview written by TelepathicGrunt]
 * Vizard Mod in #Tools section
+* https://github.com/hube12/genlayer[Layer Generation python raw code by hube12 <???>]
 
-=== Modular Arithmetic
+_Because of the mojank code quality , there are hardly any relevant articles available for WorldGen, the current best way is to read Minecraft code (considered not read friendly) , if not then the libraries :-> specifically : KaptainWutax's libraries, neil's libraries and cubiomes (In general , code that can mimic world generatiom)_
+
+== Modular Arithmetic
 
 * https://www.math.upenn.edu/~mlazar/math170/notes06-2.pdf[Notes on modular Arithmetic]
 * https://davidaltizio.web.illinois.edu/ModularArithmetic.pdf[More notes ]
@@ -118,7 +119,7 @@ Then for the follow up read the modular equivalences article.
 
 ----
 
-=== Hensel Lifting
+== Hensel Lifting
 
 * https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem[Khan Academy video on Discrete Log Problem - Excellent to get a feel of what it is about ; Think of the clock values to be seeds]
 * https://brilliant.org/wiki/hensels-lemma/[THEORY: Hensel's Lemma by brilliant.org]
@@ -129,6 +130,7 @@ Then for the follow up read the modular equivalences article.
 * https://github.com/mjtb49/BoundNextIntSkips[Practical application of Discrete Log Problem in context of Minecraft - Matthew Bolan's BoundIntSkips]
 * https://github.com/KaptainWutax/MonkeyBot/blob/be36f0b5f35302fe130b8de285e5fed0401840d2/src/main/java/kaptainwutax/monkey/utility/math/DiscreteLog.java#L56[Cleaner implementation of where the discrete log problem shows up]
 * https://github.com/mjtb49/ChunkRandomReversal/blob/00baa8ab732ded31c462ef120f1868720c9c6332/src/main/java/mjtb49/hashreversals/CarverReverser.java#L12[Hensel Lift in ChunkRandomReversal]
+* https://github.com/hube12/lifting[lifting by hube12 - Decorator Lifting example by Neil(hube12)]
 * https://math.stackexchange.com/questions/2008585/computing-the-distance-between-two-linear-congruential-generator-states/2355634[Distance from zero : Where the discrete log problem shows up!]
 
 [NOTE] 
@@ -136,7 +138,7 @@ Then for the follow up read the modular equivalences article.
 Use cases -> (Discrete log problem : find number of calls between two seeds) AND (Mod Inversion : Find inverses speedily)
 ===
 
-=== Bit Stuff
+== Bit Stuff
 
 * [IMPORTANT] https://en.wikipedia.org/wiki/Bit_numbering[Generic Wikipedia Page on Bit Numbering]
 * https://stackoverflow.com/questions/141525/what-are-bitwise-shift-bit-shift-operators-and-how-do-they-work[Understanding what `>>` , `>>>` and `<<` are , read I and III answer]
@@ -144,20 +146,21 @@ Use cases -> (Discrete log problem : find number of calls between two seeds) AND
 * https://web.cse.ohio-state.edu/~reeves.92/CSE2421au12/SlidesDay18.pdf[General Notes on bit operations]
 * https://en.wikipedia.org/wiki/Bitwise_operation#Mathematical_equivalents[Generic Wiki Page -> Opens at Mathematical Equivalents]
 * https://stackoverflow.com/questions/14279866/what-is-inverse-function-to-xor[Inverse of XORs]
-* https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[God Tier Content]
+* https://graphics.stanford.edu/~seander/bithacks.html#RoundUpPowerOf2[Bit Twindling Hacks]
+* https://stackoverflow.com/questions/52222292/concatenate-binary-representation-of-two-ints/52222489[Concatenate binary representation - Shows up in some code pieces, handy to know]
 
 
-=== Matrices
+== Matrices
 * http://studybyyourself.com/seminar/linear-algebra/course/?lang=en[Sqaure One Matrices - Recommended though assumes you have seen 3blue1brown series]
 * https://kel.bz/post/lattices/[Lattices in a friendly manner]
 * https://kel.bz/post/lll/[LLL with contrast to Gaussian reduction as well as Extended Euclid's Algorithm and others - also hands on so easy to read]
 
-=== RNGs
+== RNGs
 * https://www.redhat.com/en/blog/understanding-random-number-generators-and-their-limitations-linux[What are RNGs - RedHat article]
 * https://www.win.tue.nl/~marko/2WB05/lecture5.pdf[TUE Lecture Slides on RNG]
 * https://www.math.arizona.edu/~tgk/mc/book_chap3.pdf[Extra Info on RNGs]
 
-=== Relevant Papers
+== Relevant Papers
 
 * https://www.math.uni-frankfurt.de/~dmst/teaching/WS2014/Vorlesung/Alex.May.pdf[New RSA Vulnerabilities Using
 Lattice Reduction Methods by Alexander May]
@@ -169,45 +172,67 @@ Lattice Reduction Methods by Alexander May]
 Number Generator] _Irrelevant_
 * https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
 * https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[Lattice Basis Reduction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
+* www.cecm.sfu.ca/CAG/papers/issac19.pdf[Linear Hensel Lifting for Zp [x, y] and Z [x] with Cubic Cost by Micheal Monagan]
 
-CAUTION: [Credits : https://github.com/mjtb49[Matthew Bolan] on Monkeys Discord]
+CAUTION: [Credits : https://github.com/mjtb49[Matthew Bolan] and https://github.com/hube12[Neil] on Monkeys Discord]
 
 _These are all the papers (except 1) that was referenced ; which is useful and which isn't is upto the reader. These are only mentioned here as quick references if something is needed asap_
 
 = Tools
+
+== Structure Tools
 * https://github.com/hube12/vizard[vizard by Neil(hube12) - Tool to visualize structure generation in Minecraft] 
 * https://github.com/burgerguy/StructureFinder[Structure Finder - Structure Logger by Burger Guy]
+
+== World Veiwers & Utilities
 * https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>] || https://github.com/hube12/MineMap/releases/latest[Minemap Download]
+* https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing]
+* https://github.com/19MisterX98/DiamondSim[DiamondSim by 19MisterX98 - Diamond and Ancient Debris Finder] || https://www.youtube.com/watch?v=O7nQP5VW3RM[Showcase video]
+
+== Seed Crackers
+* https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
+* https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/19MisterX98/SeedcrackerX[SeedcrackerX by 19MisterX98 - In-game seed cracking mod for all versions with GUI and other utils] || https://www.youtube.com/watch?v=8ytfZ2MXosY[How to use it] || https://www.youtube.com/watch?v=HKjwgofhKs4[SeedCrackerX's features demo]
 * https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod for 1.16]
-* https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing] 
-* https://github.com/polymetric/treecrackerPOS[treecrackerPOS by Polymetric - Tree based minecraft seed cracker]
-* https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
-* https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
 * https://github.com/MCRcortex/TreeCracker[TreeCracker(MSCT) by MCRCortex - Seed Cracker based on Trees]
-* https://github.com/DaMatrix/TerrainFinder[bedrock coordinate locator by DaMatrix]
-* https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
-* https://github.com/mjtb49/ChunkRandomReversal[ChunkRandomReversal by mjtb49 - A collection of algorithms to reverse using partial information various hashes used by Minecraft to seed its ChunkRandom PRNG]
-* https://github.com/KaptainWutax/Kaktoos[Kaktoos by KaptainWutax - CUDA program to find tallest cactii]
-* https://github.com/Earthcomputer/SecureSeed[SecureSeed by EarthComputer - Anti Seed Tamper Tech <idk if this is a joke or not>]
+* https://github.com/polymetric/treecrackerPOS[treecrackerPOS by Polymetric - Tree based minecraft seed cracker]
+
+== Neil(hube12's) Tools
+* https://github.com/hube12/SSG[SSG by Neil - 12 eye seeds searcher]
 * https://github.com/hube12/DecompilerMC[DecompilerMC by Neil - Uses Mojang Mappings , MC decompiler]
 * https://seedfinding.com/shadow_seed/[Seedfinding.com by Neil - Gateway Locations and Shadow Seed finder]
-* https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
-* https://github.com/hube12/SSG[SSG by Neil - 12 eye seeds searcher]
-* Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
 
-==== Libraries 
+== Misc
+* https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
+* https://github.com/DaMatrix/TerrainFinder[bedrock coordinate locator by DaMatrix]
+* https://github.com/KaptainWutax/Kaktoos[Kaktoos by KaptainWutax - CUDA program to find tallest cactii]
+* https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
+* https://github.com/Earthcomputer/SecureSeed[SecureSeed by EarthComputer - Anti Seed Tamper Tech <idk if this is a joke or not>]
+
+TIP: Minecraft@Home's #project-resources channel also houses some tools used in famous porjects (pack.png , herobrine seed etc)
+
+= Libraries 
+
+== KaptainWutax's Libraries
 * https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
 * https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
 * https://github.com/KaptainWutax/TerrainUtils[TerrainUtils by KaptainWutax - lib for terrain sim]
 * https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
 * https://github.com/KaptainWutax/MathUtils[MathUtils by KaptainWutax - lib for "maths utilities specific to lcg shortcutting and Minecraft world gen"]
+
+== Lattice-Tech and Seed-Tools
 * https://github.com/hube12/latticg_rs[LattiCG_rs by Neil - LattiCG written in Rust]
 * https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
+* https://github.com/rayferric/regen[Regen by Rayferric - Smol LattiCG implementation]
 * https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
+* https://github.com/mjtb49/ChunkRandomReversal[ChunkRandomReversal by mjtb49 - A collection of algorithms to reverse using partial information various hashes used by Minecraft to seed its ChunkRandom PRNG]
+
+== Cubiomes<s>
 * https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - C Library to mimic terrain generation]
 * https://github.com/jan-leila/js-cubiome[js-cubiome by jan-leila - Javascript bindings for Cubiomes]
+
+== Neil(hube12's) Libraries
 * https://github.com/SeedFinding/minecraft_end_generation_rs[minecraft_end_generation_rs by Neil - lib for end generation, part of the SeedFinding factory]
 * https://github.com/SeedFinding/minecraft_nether_generation_rs[minecraft_nether_generation_rs by Neil - lib for nether generation, part of the SeedFinding factory]
 * https://github.com/SeedFinding/noise_rs[noise_rs by Neil - <wip> lib for noise replication, part of SeedFinding factory]
@@ -218,9 +243,11 @@ TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index f
 
 TIP: https://github.com/SeedFinding[SeedFinding by Neil - lib written in **rust** for various minecraft generators etc]
 
-_Old or deprecated tools aren't listed but can be found in the old-tools.adoc listing(tbd). If someone isn't credited or mis-credit please open an issue so I can correct it_ 
+_Old or deprecated tools aren't listed but a full tool listing can be found in Neil https://github.com/hube12[@hube12's] repo https://github.com/hube12/General-Seed-Finder-Tools[General Seed Finder Tools]_ 
 
 = Books
+
+* Integers, Polynomials, and Rings : A Course in Algebra by Ronald S. Irving
 * A course in computational algebraic number theory by Henri Cohen 
 * Lattice Basis Reduction: An Introduction to the LLL Algorithm and Its Applications by Murray R Bremner
 * Donald Knuth, The Art of Computer Programming, Volume 2, Section 3.2.1
