@@ -223,8 +223,8 @@ TIP: Minecraft@Home's #project-resources channel also houses some tools used in 
 
 == Lattice-Tech and Seed-Tools
 * https://github.com/hube12/latticg_rs[LattiCG_rs by Neil - LattiCG written in Rust]
-* https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg]
-* https://github.com/rayferric/regen[Regen by Rayferric - Smol LattiCG implementation]
+* https://github.com/mjtb49/LattiCG[LattiCG by <mjtb49,KaptainWutax,Riley,Neil etc> - JavaRandom Internal Seed reversal with LLL alg and B&B alg] || https://github.com/hube12/latticg_example[Latticg_example by Neil(hube12)]
+* https://github.com/rayferric/regen[Regen by Rayferric - lcg reverser]
 * https://github.com/Earthcomputer/libseedfinding[libseedfinding by EarthComputer - C++ seed finding utilities]
 * https://github.com/mjtb49/ChunkRandomReversal[ChunkRandomReversal by mjtb49 - A collection of algorithms to reverse using partial information various hashes used by Minecraft to seed its ChunkRandom PRNG]
 
