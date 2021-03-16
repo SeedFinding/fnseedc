@@ -25,7 +25,7 @@ toc::[]
 
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology] ☆☆☆☆☆
 
-* https://anonymousfiles.io/TgdBc64x/[MAZE 3000 CTF Write-up which has some relevant info on lcg's etc] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
+
 
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
@@ -42,6 +42,8 @@ toc::[]
 * https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
 
 * https://imgur.com/a/eWn481F[YES]
+
+* https://anonymousfiles.io/TgdBc64x/[MAZE 3000 CTF Write-up which has some relevant info on lcg and a concise example of latticg] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
 
 * https://docs.google.com/document/d/17qdpv4aI-cByMk0x3vFiiWvAWddxyTZ3tk-ZEOqw1Is/edit[Mess Detector Article Script - Has a bit of relevant info] ☆☆☆☆☆
 
@@ -172,7 +174,7 @@ Lattice Reduction Methods by Alexander May]
 Number Generator] _Irrelevant_
 * https://d-nb.info/1169615635/34[Lattice Basis Reduction: Improved Practical Algorithms and Solving Subset Sum Problems.by C. P. Schnorr & M. Euchner]
 * https://www.emsec.ruhr-uni-bochum.de/media/crypto/attachments/files/2011/03/DA_Bartkewitz.pdf[Lattice Basis Reduction Algorithms and their Efficient Implementation on Parallel Systems by Timo Bartkewitz]
-* https://www.cecm.sfu.ca/CAG/papers/issac19.pdf[Linear Hensel Lifting for ℤ[x, y] and ℤ[x] with Cubic Cost by Micheal Monagan]
+* https://www.cecm.sfu.ca/CAG/papers/issac19.pdf[Linear Hensel Lifting for ℤ(x,y) and ℤ(x) with Cubic Cost by Micheal Monagan]
 
 CAUTION: [Credits : https://github.com/mjtb49[Matthew Bolan] and https://github.com/hube12[Neil] on Monkeys Discord]
 
