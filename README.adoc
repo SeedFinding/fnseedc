@@ -232,10 +232,12 @@ TIP: Minecraft@Home's #project-resources channel also houses some tools used in 
 = Libraries 
 
 == KaptainWutax's Libraries
+
+* https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
 * https://github.com/KaptainWutax/FeatureUtils[FeatureUtils by KaptainWutax - lib for "access to minecraft features"]
 * https://github.com/KaptainWutax/BiomeUtils[BiomeUtils by KaptainWutax - lib for "biome generation replication"]
+* https://github.com/KaptainWutax/NoiseUtils[NoiseUtils by KaptainWutax - lib for noise simulation]
 * https://github.com/KaptainWutax/TerrainUtils[TerrainUtils by KaptainWutax - lib for terrain sim]
-* https://github.com/KaptainWutax/SeedUtils[SeedUtils by KaptainWutax - lib for seed utility helper funcs]
 * https://github.com/KaptainWutax/MathUtils[MathUtils by KaptainWutax - lib for "maths utilities specific to lcg shortcutting and Minecraft world gen"]
 
 == Lattice-Tech and Seed-Tools
