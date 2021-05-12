@@ -250,7 +250,7 @@ TIP: Minecraft@Home's #project-resources channel also houses some tools used in 
 == Cubiomes<s>
 * https://github.com/Cubitect/cubiomes[Cubiomes by Cubitect - C Library to mimic terrain generation]
 * https://github.com/jan-leila/js-cubiome[js-cubiome by jan-leila - Javascript bindings for Cubiomes]
-
+* https://github.com/4gboframram/Pyubiomes[Pyubiomes by 4gboframram - A wip easy-to-use Python wrapper for the most important utilities in Cubiomes (and soon to be more)]
 == Neil(hube12's) Libraries
 * https://github.com/SeedFinding/minecraft_end_generation_rs[minecraft_end_generation_rs by Neil - lib for end generation, part of the SeedFinding factory]
 * https://github.com/SeedFinding/minecraft_nether_generation_rs[minecraft_nether_generation_rs by Neil - lib for nether generation, part of the SeedFinding factory]
