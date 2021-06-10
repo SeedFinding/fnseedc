@@ -19,7 +19,7 @@ _The above definitions were supplied by Neil#4879 on Minecraft@Home discord_
 image::seedtypes.png[]
 
 * **Offsets** - How much X is away from Y where X, Y are two numbers , in context of LCG's -> it is the addend part (multiplier * seed + addend)
-* **Salts** - https://en.wikipedia.org/wiki/Salt_(cryptography)[Wiki] makes it pretty clear. https://minecraft.gamepedia.com/Custom_world_generation[Check the strucutres to know where the salt context lies]
+* **Salts** - https://en.wikipedia.org/wiki/Salt_(cryptography)[Wiki] makes it pretty clear. https://minecraft.gamepedia.com/Custom_world_generation[Check the structures to know where the salt context lies]
 * **Attack** - Think of cracking a seed . That "cracking" part is essentially the attack (on the proper LCG/generator algorithm) . In a proper way - it is the means of exploiting the weakness in a generator sequence or an algorithm.
 
 * **Chunkseed** See **Population Seed** above.
