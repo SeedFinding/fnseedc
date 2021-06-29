@@ -197,15 +197,18 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>] || https://github.com/hube12/MineMap/releases/latest[Minemap Download]
 * https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing]
 * https://github.com/19MisterX98/DiamondSim[DiamondSim by 19MisterX98 - Diamond and Ancient Debris Finder] || https://www.youtube.com/watch?v=O7nQP5VW3RM[Showcase video]
+* https://github.com/Gaider10/CrossroadFinder[CrossroadFinder by Gaider10 - Find crossroad formations on a set seed]
 
 == Seed Crackers
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
 * https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
 * https://github.com/19MisterX98/SeedcrackerX[SeedcrackerX by 19MisterX98 - In-game seed cracking mod for all versions with GUI and other utils] || https://www.youtube.com/watch?v=8ytfZ2MXosY[How to use it] || https://www.youtube.com/watch?v=HKjwgofhKs4[SeedCrackerX's features demo]
+* https://github.com/Gaider10/PigSpawnerFinder[PigSpawnerFinder by Gaider10 - Find seeds with pig spawners]
 * https://github.com/KaptainWutax/SeedCracker[SeedCracker by KaptainWutax - in-game seed cracking mod for 1.16]
 * https://github.com/MCRcortex/TreeCracker[TreeCracker(MSCT) by MCRCortex - Seed Cracker based on Trees]
 * https://github.com/polymetric/treecrackerPOS[treecrackerPOS by Polymetric - Tree based minecraft seed cracker]
+* https://github.com/YanWQ-monad/MinecraftSeedReverse[MinecraftSeedReverse by YanWQ-monad - <Note: This is a largely unknown tool with no proper demos/tests available, you are on your own and the QnA is the way to get support.> Find a seed by the positions of the structures and biome information]
 
 == Read MC Code
 
@@ -220,6 +223,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 == Misc
 * https://panda4994.github.io/seedinfo/seedinfo.html[SeedInfo by Panda4994 - Seed <somewhat> analysis <more like facts> tool]
+* https://github.com/jellejurre/seed-checker[seed-cheecker by jellejurre - Generate minecraft terrain 'accurately' and performs checks on it]
 * https://github.com/DaMatrix/TerrainFinder[bedrock coordinate locator by DaMatrix]
 * https://github.com/KaptainWutax/Kaktoos[Kaktoos by KaptainWutax - CUDA program to find tallest cactii]
 * https://github.com/jaquadro/NBTExplorer[NBTExplorer by jaquadro - NBT data source viewer]
@@ -282,6 +286,8 @@ _Old or deprecated tools aren't listed but a full tool listing can be found all-
 * https://discord.gg/xArErFf[Minecraft@Home]
 * https://discord.gg/tDPvR9c[Minecraft Seedrunning's #seed-research channel]
 * https://discord.gg/BuBGds9[Minecraft WorldGen]
+* https://discord.gg/QhsjCeuUm9[Matthew's Projects]
+* https://discord.com/invite/cnyhqaW[/r/MinecraftSeeds subreddit-official server]
 
 ---
 
