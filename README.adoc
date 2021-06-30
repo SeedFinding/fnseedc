@@ -286,6 +286,7 @@ _Old or deprecated tools aren't listed but a full tool listing can be found all-
 * https://discord.gg/xArErFf[Minecraft@Home]
 * https://discord.gg/tDPvR9c[Minecraft Seedrunning's #seed-research channel]
 * https://discord.gg/BuBGds9[Minecraft WorldGen]
+* https://discord.gg/mn47bWvFjf[Neil's Projects]
 * https://discord.gg/QhsjCeuUm9[Matthew's Projects]
 * https://discord.com/invite/cnyhqaW[/r/MinecraftSeeds subreddit-official server]
 
