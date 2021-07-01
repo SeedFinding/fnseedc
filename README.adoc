@@ -78,6 +78,10 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 
 * https://www.youtube.com/watch?v=OLS7CCgNcuY[Seeds & Generation: Ways to enter a Seed]
 
+.https://www.youtube.com/channel/UCpl_Hvlao2DOUH2Z6PxhiiA[L64]
+
+* https://www.youtube.com/watch?v=97OdqeiUfHw[Fast Seed Finding and the SciCraftSeedFinder]
+
 .https://www.youtube.com/channel/UCx9W2ZQpyDnkzxZIRRON-Yg[Steven Schaefer]
 
 * https://www.youtube.com/watch?v=U8MI2a_BHHo[LLL Algorithm]
@@ -263,7 +267,7 @@ TIP: Minecraft@Home's #project-resources channel also houses some tools used in 
 * https://github.com/SeedFinding/java_random_rs[java_random_rs by Neil - <wip> lib for java random utils, part of SeedFinding Factory]
 * https://github.com/SeedFinding/MCBiomes[MCBiomes by Neil - <Probably> code to mimic biome generation <!not confirmed>]
 
-TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned above; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import]
+TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned above; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import] || https://github.com/hube12/SEED[SEED fork by Neil - Rolling release of SEED with more forefront features]
 
 TIP: https://github.com/SeedFinding[SeedFinding by Neil - lib written in **rust** for various minecraft generators etc]
 
@@ -286,6 +290,7 @@ _Old or deprecated tools aren't listed but a full tool listing can be found all-
 * https://discord.gg/xArErFf[Minecraft@Home]
 * https://discord.gg/tDPvR9c[Minecraft Seedrunning's #seed-research channel]
 * https://discord.gg/BuBGds9[Minecraft WorldGen]
+* https://discord.gg/mn47bWvFjf[Neil's Projects]
 * https://discord.gg/QhsjCeuUm9[Matthew's Projects]
 * https://discord.com/invite/cnyhqaW[/r/MinecraftSeeds subreddit-official server]
 
