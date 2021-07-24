@@ -63,7 +63,16 @@ and are in reference to Minecraft
 * https://www.youtube.com/watch?v=gsaV9gcLntM[Minecraft Seedfinding Ep. 2 Pt. 2 - Lattices and Linear Programming]
 * https://www.youtube.com/watch?v=8CKh4x4iK38&t=522s[Dungeon Seed Cracking Thing]
 
-.https://github.com/hube12[Neil(Hube12)]
+.https://github.com/hube12[Neil: Tutorial Series]
+
+* https://www.youtube.com/watch?v=-EOpr1pJqQc[Episode 0: Setting up your environment]
+* https://www.youtube.com/watch?v=ZlNPYo84Zd0[Episode 1: Making a structure finder]
+
+.https://www.youtube.com/channel/UCYf1CYZAV8zkOBgIPnm_uHg[Jurre Groenendijk]
+
+* https://www.youtube.com/watch?v=9xFoDOtoeTc[Getting started with Java SeedFinding - Feature Utils]
+
+.https://github.com/hube12[Neil]
 
 * https://www.youtube.com/watch?v=esbxCDHvjvo[
 Seedfinding tutorial part 0: Structures and LCG]
@@ -93,9 +102,6 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 .https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ[Richard E. BORCHERDS]
 * https://en.wikipedia.org/wiki/Richard_Borcherds[Who he is]
 
-----
-This channel is a goldmine for math lectures. Highly recommended to reference relevant math topics (p-adics, congruneces and what not)
-----
 
 ---
 
@@ -295,6 +301,14 @@ _Old or deprecated tools aren't listed but a full tool listing can be found all-
 * https://discord.com/invite/cnyhqaW[/r/MinecraftSeeds subreddit-official server]
 
 ---
+
+= Salts
+
+* https://gist.github.com/hube12/574512a3c4df2be8ba6c08e7298caedd[1.13]
+* https://gist.github.com/hube12/394ddf11b3cdcc9504270777565446e4[1.14]
+* https://gist.github.com/hube12/821b66615a97a7130ef804603d68bec8[1.13]
+* https://gist.github.com/hube12/b65500cd234ce2a3983b62b3903c183d[1.16]
+* https://gist.github.com/hube12/5066fbcd8565648dd68113a9b065514b[1.17]
 
 
 [NOTE]
