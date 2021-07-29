@@ -210,6 +210,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/Gaider10/CrossroadFinder[CrossroadFinder by Gaider10 - Find crossroad formations on a set seed]
 
 == Seed Crackers
+* https://github.com/jellejurre/GPULootSeedFinder[GPULootSeedFinder by jellejurre - Generate loot seeds on the GPU]
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
 * https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
@@ -273,7 +274,7 @@ TIP: Minecraft@Home's #project-resources channel also houses some tools used in 
 * https://github.com/SeedFinding/java_random_rs[java_random_rs by Neil - <wip> lib for java random utils, part of SeedFinding Factory]
 * https://github.com/SeedFinding/MCBiomes[MCBiomes by Neil - <Probably> code to mimic biome generation <!not confirmed>]
 
-TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned above; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import] || https://github.com/hube12/SEED[SEED fork by Neil - Rolling release of SEED with more forefront features]
+TIP: https://github.com/KaptainWutax/SEED[SEED by KaptainWutax - general index for all the "x"Utils library mentioned above; basically use FeatureUtils,   BiomeUtils, SeedUtils, MathUtils freely with just this import] || https://github.com/hube12/SEED[SEED fork by Neil - Rolling release of SEED with more forefront features and bug fixes, preferably use this]
 
 TIP: https://github.com/SeedFinding[SeedFinding by Neil - lib written in **rust** for various minecraft generators etc]
 
