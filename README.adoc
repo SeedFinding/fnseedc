@@ -210,6 +210,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/Gaider10/CrossroadFinder[CrossroadFinder by Gaider10 - Find crossroad formations on a set seed]
 
 == Seed Crackers
+* https://github.com/jellejurre/GPULootSeedFinder[GPULootSeedFinder by jellejurre - Generate loot seeds on the GPU]
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
 * https://github.com/Cubitect/cubiomes-viewer[Cubiomes-Viewer by Cubitect - Qt based map viewer and seed finder leveraging on Cubiomes lib]
 * https://github.com/Zodsmar/SeedSearcherStandaloneTool[SeedSearcherStandaloneTool(SASSA) by ZodSmar - All in one utility for general seed searching for specific features]
