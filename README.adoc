@@ -35,7 +35,7 @@ toc::[]
 
 * https://en.wikipedia.org/wiki/Linear_congruential_generator[Generic Wikipedia Article]
 
-* https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
+* https://web.archive.org/web/20181222235217/https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
 
 * https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample] ☆☆☆☆☆
 
