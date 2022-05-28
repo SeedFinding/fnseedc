@@ -67,6 +67,7 @@ and are in reference to Minecraft
 
 * https://www.youtube.com/watch?v=-EOpr1pJqQc[Episode 0: Setting up your environment]
 * https://www.youtube.com/watch?v=ZlNPYo84Zd0[Episode 1: Making a structure finder]
+* https://www.youtube.com/watch?v=p123ZhSMrwg[Episode 0bis: Libraries explanations]
 
 .https://www.youtube.com/channel/UCYf1CYZAV8zkOBgIPnm_uHg[Jurre Groenendijk]
 
@@ -99,9 +100,13 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 
 * https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B[IMPORTANT: Essence of Linear Algebra series]
 
-.https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ[Richard E. BORCHERDS]
-* https://en.wikipedia.org/wiki/Richard_Borcherds[Who he is]
+.https://www.youtube.com/channel/UC8Wrbf2aJkX63pu2bG5QiFg[Alan Zucconi]
 
+* https://youtu.be/YyVAaJqYAfE[Minecraft WORLD GENERATION Explained💎⛏️]
+
+.https://www.youtube.com/channel/UCQP4qSCj1eHMHisDDR4iPzw[GamesWithGabe]
+
+* https://www.youtube.com/watch?v=fjZAgoxFKiQ[Why Minecraft is a Technical Feat | Explaining the Engineering Behind an Indie Icon]
 
 ---
 
@@ -111,6 +116,8 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 * https://gist.github.com/XI64/0480256ed2836e4d301210899551c659[World Generation Overview written by TelepathicGrunt]
 * Vizard Mod in #Tools section
 * https://github.com/hube12/genlayer[Layer Generation python raw code by hube12 <???>]
+* The https://youtu.be/YyVAaJqYAfE[Alan Zucconi video] provides a decent top level overview of the process.
+* https://www.redblobgames.com/maps/terrain-from-noise/[Redblobgames on terrain from noise] and https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4[Replicating Minecraft World Generation in Python] - While not for minecraft specifically, they do explain a few related concepts very well.
 
 _Because of the mojank code quality , there are hardly any relevant articles available for WorldGen, the current best way is to read Minecraft code (considered not read friendly) , if not then the libraries :-> specifically : KaptainWutax's libraries, neil's libraries and cubiomes (In general , code that can mimic world generatiom)_
 
@@ -205,6 +212,7 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 
 == World Veiwers & Utilities
 * https://github.com/KaptainWutax/MineMap[MineMap by KaptainWutax - amidst but really better <lol>] || https://github.com/hube12/MineMap/releases/latest[Minemap Download]
+* https://github.com/xpple/SeedMapper[SeedMapper by xpple - Do various things with the world seed.]
 * https://github.com/polymetric/MCTerrainRenderer[MCTerrainRenderer by <Polymetric, Neil> - Terrain viewer utility to quickly see seeds and skip for testing]
 * https://github.com/19MisterX98/DiamondSim[DiamondSim by 19MisterX98 - Diamond and Ancient Debris Finder] || https://www.youtube.com/watch?v=O7nQP5VW3RM[Showcase video]
 * https://github.com/Gaider10/CrossroadFinder[CrossroadFinder by Gaider10 - Find crossroad formations on a set seed]
