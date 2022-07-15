@@ -21,9 +21,15 @@ toc::[]
 
 * https://docs.google.com/document/d/1stTJAjLmCXtqctdFOpuv4lylegcmfO8mFrptFtwqb78/edit[Solid Talk on reversal of Math.random (in-game, infact) and how it is done , Context: Mess Detection by EarthComputer] ☆☆☆☆☆
 
+* https://cdn.discordapp.com/attachments/584121781355282454/860046443292262421/Reverse-engineering_Minecraft_RNG_to_get_world_records.pptx[Powerpoint Presentation by jurrejelle on Reverse Engineering Minecraft RNG] ☆☆☆☆☆
+
+* https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample] ☆☆☆☆☆
+
+* https://anonymousfiles.io/TgdBc64x/[MAZE 3000 CTF Write-up which has some relevant info on lcg and a concise example of latticg] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
+
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology] ☆☆☆☆☆
 
-* https://cdn.discordapp.com/attachments/584121781355282454/860046443292262421/Reverse-engineering_Minecraft_RNG_to_get_world_records.pptx[Powerpoint Presentation by jurrejelle on Reverse Engineering Minecraft RNG] ☆☆☆☆☆
+* https://docs.google.com/document/d/17qdpv4aI-cByMk0x3vFiiWvAWddxyTZ3tk-ZEOqw1Is/edit[Mess Detector Article Script - Has a bit of relevant info] ☆☆☆☆☆
 
 * https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/[Predicting Math.Random() case but provides easy to understand info on LCGs in general]
 
@@ -35,15 +41,9 @@ toc::[]
 
 * https://web.archive.org/web/20181222235217/https://tailcall.net/blog/cracking-randomness-lcgs/[Weird Article]
 
-* https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample] ☆☆☆☆☆
-
 * https://kaptainwutax.seedfinding.com/docs/[KaptainWutax's docs (Coming Soon™)]
 
 * https://imgur.com/a/eWn481F[YES]
-
-* https://anonymousfiles.io/TgdBc64x/[MAZE 3000 CTF Write-up which has some relevant info on lcg and a concise example of latticg] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
-
-* https://docs.google.com/document/d/17qdpv4aI-cByMk0x3vFiiWvAWddxyTZ3tk-ZEOqw1Is/edit[Mess Detector Article Script - Has a bit of relevant info] ☆☆☆☆☆
 
 ----
 ☆☆☆☆☆ articles are written by known minecraft seedcrackers (EarthComputer, Neil etc)
