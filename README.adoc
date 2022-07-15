@@ -10,8 +10,6 @@ endif::[]
 
 = Collection of resources for Minecraft Seedcracking Scene
 
-**READ how-not-to-be-an-idiot.adoc before reading this if you are a total newbie**
-
 ---
 
 .**Table of Contents**
@@ -84,6 +82,10 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 * https://www.youtube.com/watch?v=EQSzSN-uklY[Seedfinding tutorial part 3: Recursion, Mineshaft, Stronghold and Fortress]
 * https://www.youtube.com/watch?v=sRwz-wEq9YI[Seedfinding tutorial part 4: Latticg]
 
+.https://www.youtube.com/c/LiveOverflow[LiveOverflow]
+
+* https://youtu.be/gSxcDYCK_lY?t=727[They Cracked My Server!]
+
 .https://www.youtube.com/user/Panda4994[Panda4994]
 
 * https://www.youtube.com/watch?v=OLS7CCgNcuY[Seeds & Generation: Ways to enter a Seed]
@@ -103,10 +105,6 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 .https://www.youtube.com/channel/UC8Wrbf2aJkX63pu2bG5QiFg[Alan Zucconi]
 
 * https://youtu.be/YyVAaJqYAfE[Minecraft WORLD GENERATION Explained💎⛏️]
-
-.https://www.youtube.com/channel/UCQP4qSCj1eHMHisDDR4iPzw[GamesWithGabe]
-
-* https://www.youtube.com/watch?v=fjZAgoxFKiQ[Why Minecraft is a Technical Feat | Explaining the Engineering Behind an Indie Icon]
 
 ---
 
