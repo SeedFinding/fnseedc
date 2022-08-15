@@ -25,7 +25,7 @@ toc::[]
 
 * https://gist.github.com/EDDxample/38a9acddcd29f15af034fd91da93b8fa[On Lattice Basics by EDDxample] ☆☆☆☆☆
 
-* https://anonymousfiles.io/TgdBc64x/[MAZE 3000 CTF Write-up which has some relevant info on lcg and a concise example of latticg] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
+* https://anonymfile.com/R2Dx/maze-3000-writeuppdf.url[MAZE 3000 CTF Write-up which has some relevant info on lcg and a concise example of latticg] || https://github.com/hube12/MAZE_3000[Link to the CTF itself] ☆☆☆☆☆
 
 * https://gist.github.com/hube12/368e7331e497b17e092e8ca4ba206b3c[Writeup on Java Random LCG in context of Minecraft by Neil (hube12) himself , also goes a bit into seedcracking methodology] ☆☆☆☆☆
 
