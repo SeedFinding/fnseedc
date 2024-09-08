@@ -121,7 +121,7 @@ Seedfinding tutorial part 2: Terrain Gen and Noises]
 * The https://youtu.be/YyVAaJqYAfE[Alan Zucconi video] provides a decent top level overview of the process.
 * https://www.redblobgames.com/maps/terrain-from-noise/[Redblobgames on terrain from noise] and https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4[Replicating Minecraft World Generation in Python] - While not for minecraft specifically, they do explain a few related concepts very well.
 
-_Because of the mojank code quality , there are hardly any relevant articles available for WorldGen, the current best way is to read Minecraft code (considered not read friendly) , if not then the libraries :-> specifically : KaptainWutax's libraries, neil's libraries and cubiomes (In general , code that can mimic world generatiom)_
+_Because of the mojank code quality , there are hardly any relevant articles available for WorldGen, the current best way is to read Minecraft code (considered not read friendly) , if not then the libraries :-> specifically : KaptainWutax's libraries, neil's libraries and cubiomes (In general , code that can mimic world generation)_
 
 == Modular Arithmetic
 
