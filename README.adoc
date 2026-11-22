@@ -219,6 +219,8 @@ _These are all the papers (except 1) that was referenced ; which is useful and w
 * https://github.com/19MisterX98/DiamondSim[DiamondSim by 19MisterX98 - Diamond and Ancient Debris Finder] || https://www.youtube.com/watch?v=O7nQP5VW3RM[Showcase video]
 * https://github.com/Gaider10/CrossroadFinder[CrossroadFinder by Gaider10 - Find crossroad formations on a set seed]
 
+* https://seedmapviewer.com/[Seed Map Viewer] - Browser-based world viewer built on Cubiomes (compiled to WebAssembly): biome maps for all three dimensions plus structure, village, biome and slime-chunk finders for a given seed.
+
 == Seed Crackers
 * https://github.com/jellejurre/GPULootSeedFinder[GPULootSeedFinder by jellejurre - Generate loot seeds on the GPU]
 * https://github.com/WearBlackAllDay/SeedCandy[SeedCandy by WearBlackAllDay - GUI program to crack seeds]
